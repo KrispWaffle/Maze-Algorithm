@@ -1,7 +1,8 @@
-# Maze Solver Web App
+# Maze Solver
 
 A web-based app where users can draw a maze, set start/end points, and watch an AI solve the maze using the Breadth-First Search (BFS) algorithm.
-
+Try it out here 
+https://krispwaffle.github.io/Search-Algo/
 ## Features
 
 - Draw walls to create a maze on a grid.
